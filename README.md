@@ -281,5 +281,4 @@ are welcome — please note the exact model and VID/PID in your PR.
 
 ## License
 
-MIT — see [LICENSE](LICENSE), or add your preferred license before
-publishing.
+MIT — see [LICENSE](LICENSE).
